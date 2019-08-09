@@ -1,0 +1,10 @@
+{
+    "name": "Node.js",
+    "description": "First Node.js project with test",
+    "iconName": "nodejs",
+    "categories": [
+        "JavaScript",
+        "Node",
+        "Npm"
+    ]
+}
